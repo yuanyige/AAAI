@@ -1,16 +1,16 @@
 ## Additional Support for Rebuttal
 
 ### 1. Mentioned Paper in Rebuttal Responses.
-- [1] Poole B et al. On variational bounds of mutual information[C]//International Conference on Machine Learning. PMLR, 2019: 5171-5180.
-- [2] Saunshi N et al. A theoretical analysis of contrastive unsupervised representation learning[C]//International Conference on Machine Learning. PMLR, 2019: 5628-5637.
-- [3] You Y et al. Graph contrastive learning with augmentations[J]. Advances in Neural Information Processing Systems, 2020, 33: 5812-5823.
-- [4] Zhu Y et al. Graph contrastive learning with adaptive augmentation[C]//Proceedings of the Web Conference 2021. 2021: 2069-2080.
+- [2] Poole B et al. On variational bounds of mutual information[C]//International Conference on Machine Learning. PMLR, 2019: 5171-5180.
+- [3] Saunshi N et al. A theoretical analysis of contrastive unsupervised representation learning[C]//International Conference on Machine Learning. PMLR, 2019.
+- [4] You Y et al. Graph contrastive learning with augmentations[J]. Advances in Neural Information Processing Systems, 2020, 33: 5812-5823.
+- [5] Zhu Y et al. Graph contrastive learning with adaptive augmentation[C]//Proceedings of the Web Conference 2021. 2021: 2069-2080.
 
 ---
 ### 2. Experiments for Early Stopping (Reviewer #6)
 
 Figure 1: The evaluation curve during the whole training.
-<center><img src="./pic/ES.png" width="60%"></center>
+<img src="./pic/ES.png" width="60%">
 
 Table 1: The **Highest** score and its epoch during the whole training.
 
