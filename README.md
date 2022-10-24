@@ -23,7 +23,7 @@ Table 1: The **Highest** score and its epoch during the whole training.
 
 All of our InfoAdv and its variants outperform BGRL in four datasets.
 
-Table 3: Performance comparison for InfoAdv and BGRL
+<center>Table 3: Performance comparison for InfoAdv and BGRL</center>
 | Methods\Datasets | Cora        | Citeseer     | Pubmed      | Aphoto       |
 |------------------|-------------|--------------|-------------|--------------|
 | BGRL             | 82.62+-1.00 | 69.78+-0.41  | 86.35+-034  | 93.13+-0.10  |
