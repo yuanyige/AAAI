@@ -10,7 +10,7 @@
 ### 2. Experiments for Early Stopping (Reviewer #6)
 
 Figure 1: The evaluation curve during the whole training.
-<img src="./pic/ES.png" width="60%">
+<p><img src="./pic/ES.png" width="60%"></p>
 
 Table 1: The **Highest** score and its epoch during the whole training.
 
@@ -23,7 +23,7 @@ Table 1: The **Highest** score and its epoch during the whole training.
 ### 4. Experiments for Additional Baselines BGRL (Reviewer #1)
 
 As shown in Table 3, all of our InfoAdv and its variants outperform BGRL in four datasets.
-<center><img src="./pic/Baselines.png" width="60%"></center>
+<p><img src="./pic/Baselines.png" width="60%"></p>
 
 ---
 ### 5. Experiments for Additional Task Node Cluster (Reviewer #1)
