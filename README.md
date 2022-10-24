@@ -22,20 +22,13 @@ Table 1: The **Highest** score and its epoch during the whole training.
 
 ---
 ### 3. Experiments for Link Prediction STD (Reviewer #2)
-
+<center><img src="./pic/Baselines.png" width="60%"></center>
 
 ---
 ### 4. Experiments for Additional Baselines BGRL (Reviewer #1)
 
 As shown in Table 3, all of our InfoAdv and its variants outperform BGRL in four datasets.
 
-Table 3: Performance comparison for InfoAdv and BGRL
-| Methods\Datasets | Cora        | Citeseer     | Pubmed      | Aphoto       |
-|------------------|-------------|--------------|-------------|--------------|
-| BGRL             | 82.62+-1.00 | 69.78+-0.41  | 86.35+-034  | 93.13+-0.10  |
-| InfoAdv          | **84.82+-0.83** | **73.00+-0.42**  | **86.87+-0.28** | 93.54+-0.04  |
-| InfoAdv(w/o Gen) | 84.40+-0.99 | 72.51+-0.48  | 86.67+-0.23 | 93.26+-0.12  |
-| InfoAdv(w/o Reg) | 84.36+-0.54 | 72.74+-0.27  | 86.82+-0.25 | **93.80+-0.12**  |
 
 ---
 ### 5. Experiments for Additional Task Node Cluster (Reviewer #1)
