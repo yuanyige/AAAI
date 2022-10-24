@@ -13,22 +13,17 @@ Figure 1: The evaluation curve during the whole training.
 <center><img src="./pic/ES.png" width="60%"></center>
 
 Table 1: The **Highest** score and its epoch during the whole training.
-| Methods/Datasets | Cora           |       | Citeseer |       | Pubmed |       | Aphoto |       |
-|------------------|----------------|-------|----------|-------|--------|-------|--------|-------|
-|                  | score          | epoch | score    | epoch | score  | epoch | score  | epoch |
-| Grace            | 0.8377+-0.0093 | 703   |          |       |        |       |        |       |
-| GCA              | 0.8381+-0.0092 | 1460  |          |       |        |       |        |       |
-| InfoAdv          | 0.8526+-0.0105 | 888   |
+
 
 ---
 ### 3. Experiments for Link Prediction STD (Reviewer #2)
-<center><img src="./pic/Baselines.png" width="60%"></center>
+
 
 ---
 ### 4. Experiments for Additional Baselines BGRL (Reviewer #1)
 
 As shown in Table 3, all of our InfoAdv and its variants outperform BGRL in four datasets.
-
+<center><img src="./pic/Baselines.png" width="60%"></center>
 
 ---
 ### 5. Experiments for Additional Task Node Cluster (Reviewer #1)
