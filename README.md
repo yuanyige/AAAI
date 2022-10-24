@@ -1,13 +1,13 @@
 ## Additional Support for Rebuttal
 
-### Mentioned Paper in Rebuttal Responses.
+### 1. Mentioned Paper in Rebuttal Responses.
 - [1] Poole B, Ozair S, Van Den Oord A, et al. On variational bounds of mutual information[C]//International Conference on Machine Learning. PMLR, 2019: 5171-5180.
 - [2] Saunshi N, Plevrakis O, Arora S, et al. A theoretical analysis of contrastive unsupervised representation learning[C]//International Conference on Machine Learning. PMLR, 2019: 5628-5637.
 - [3] You Y, Chen T, Sui Y, et al. Graph contrastive learning with augmentations[J]. Advances in Neural Information Processing Systems, 2020, 33: 5812-5823.
 - [4] Zhu Y, Xu Y, Yu F, et al. Graph contrastive learning with adaptive augmentation[C]//Proceedings of the Web Conference 2021. 2021: 2069-2080.
 
 ---
-### Experiments for Early Stopping (Reviewer #6)
+### 2. Experiments for Early Stopping (Reviewer #6)
 
 Figure 1: The evaluation curve during the whole training.
 <center><img src="./pic/ES.png" width="60%"></center>
@@ -16,11 +16,11 @@ Table 1: The **Highest** score and its epoch during the whole training.
 
 
 ---
-### Experiments for Link Prediction STD (Reviewer #2)
+### 3. Experiments for Link Prediction STD (Reviewer #2)
 
 
 ---
-### Experiments for Additional Baselines BGRL (Reviewer #1)
+### 4. Experiments for Additional Baselines BGRL (Reviewer #1)
 
 As shown in Table 3, all of our InfoAdv and its variants outperform BGRL in four datasets.
 
@@ -33,7 +33,7 @@ Table 3: Performance comparison for InfoAdv and BGRL
 | InfoAdv(w/o Reg) | 84.36+-0.54 | 72.74+-0.27  | 86.82+-0.25 | **93.80+-0.12**  |
 
 ---
-### Experiments for Additional Task Node Cluster (Reviewer #1)
+### 5. Experiments for Additional Task Node Cluster (Reviewer #1)
 
 - InfoAdv
   - cora 0.24546831846237183
