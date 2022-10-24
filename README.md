@@ -8,7 +8,7 @@
 
 ## Experiments for Early Stopping (Reviewer #6)
 
-![Figure 1: The evaluation curve during the whole training.](./pic/ES)
+![Figure 1: The evaluation curve during the whole training.](./pic/ES.png)
 
 Table 1: The **Highest** score and its epoch during the whole training.
 
