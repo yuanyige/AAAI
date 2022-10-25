@@ -6,7 +6,7 @@ Figure 1: The evaluation curve during the whole training.
 <p><img src="./pic/EarlyStop.png" width="60%"></p>
 
 Table 1: The **Highest** score and its epoch during the whole training.
-
+<p><img src="./pic/EarlyStopHigest.png" width="60%"></p>
 
 ---
 ### 2. Experiments for Link Prediction STD (Reviewer #2)
