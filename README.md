@@ -21,7 +21,7 @@ Table 2: The standard deviation for Link Prediction.
 
 As is shown in Table 3, all of our InfoAdv and its variants outperform BGRL in four datasets. 
 
-Table 3: Performance comparison between InfoAdvs and BGRL on node classification in terms of F1-micro score.
+Table 3: Performance comparison between InfoAdvs and BGRL on node classification in terms of F1-micro score. The red stands for the highest score and the black stands for the second highest score.
 <p><img src="./pic/Baselines.png" width="60%"></p>
 
 ---
