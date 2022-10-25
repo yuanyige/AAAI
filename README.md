@@ -14,7 +14,7 @@ Table 1: The **Highest** score and its epoch during the whole training.
 ### 2. Experiments for Link Prediction Standard Deviation (Reviewer #2)
 
 Table 2: The standard deviation for Link Prediction.
-<p><img src="./pic/Std.png" width="60%"></p>
+<p><img src="./pic/Std.png" width="80%"></p>
 
 ---
 ### 3. Experiments for Additional Baselines BGRL (Reviewer #1)
